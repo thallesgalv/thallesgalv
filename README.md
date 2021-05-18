@@ -52,8 +52,6 @@ Front-end developer with multiple skills. I have experience in the development o
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thallesgalv&hide=TeX&layout=compact&theme=dracula)
 
-
-
 <!--
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thallesgalv.thallesgalv)
 -->
