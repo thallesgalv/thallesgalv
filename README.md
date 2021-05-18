@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### I'm Thalles Galvão, Front-End Developer.
+I'm Thalles Galvão, Front-End Developer. Currently working at EGO Comunicação Estratégica. You can find me on [LinkedIn]('https://www.linkedin.com/in/thalles-galvao/')
  
 <!--
 **thallesgalv/thallesgalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
