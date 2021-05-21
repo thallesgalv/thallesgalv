@@ -4,7 +4,7 @@ I'm Thalles Galvão, Front-End Developer. Currently working at EGO Comunicação
 
 Front-end developer with multiple skills. I have experience in the development of digital products and also in copywriting due to my academic background. Professional growth is a priority for me, so I dedicate myself to new courses, guaranteeing certifications and future accomplishments.
 
-[![Personal Site Badge](https://img.shields.io/badge/-%F0%9F%8C%90%20Personal%20Site-22212c?style=flat-square&link=thallesgalvao.com.br)](thallesgalvao.com.br)
+[![Personal Site Badge](https://img.shields.io/badge/-%F0%9F%8C%90%20Personal%20Site-22212c?style=flat-square&link=https://www.thallesgalvao.com.br)](https://www;thallesgalvao.com.br)
 [![Linkedin](https://img.shields.io/badge/-thallesgalvao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thallesgalvao/)](https://www.linkedin.com/in/thallesgalvao/)
 [![Gmail Badge](https://img.shields.io/badge/-thallesgalv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thallesgalv@gmail.com)](mailto:thallesgalv@gmail.com)
 
