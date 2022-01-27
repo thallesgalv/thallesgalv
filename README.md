@@ -1,12 +1,14 @@
 # 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Thalles Galvão, Front-End Developer. Currently working at 2b Digital by TOTVS Ibirapuera.
+**I'm Thalles Galvão, Front-End Developer. Currently working at 2b Digital by TOTVS Ibirapuera**.
 
 Front-end developer with multiple skills. I have experience in the development of digital products and also in copywriting due to my academic background. Professional growth is a priority for me, so I dedicate myself to new courses, guaranteeing certifications and future accomplishments.
 
-[![Personal Site Badge](https://img.shields.io/badge/-%F0%9F%8C%90%20Personal%20Site-22212c?style=flat-square&link=https://www.thallesgalvao.com.br)](https://www.thallesgalvao.com.br)
-[![Linkedin](https://img.shields.io/badge/-thallesgalvao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thallesgalvao/)](https://www.linkedin.com/in/thallesgalvao/)
-[![Gmail Badge](https://img.shields.io/badge/-thallesgalv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thallesgalv@gmail.com)](mailto:thallesgalv@gmail.com)
+<div>
+<a href="https://www.thallesgalvao.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="https://www.thallesgalvao.com.br"</a>
+<a href="https://www.linkedin.com/in/thallesgalvao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/thallesgalvao/"</a>
+ <a href="mailto:thallesgalv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" alt="thallesgalv@gmail.com"</a>
+</div>
 
 
 ## Skills
