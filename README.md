@@ -1,6 +1,6 @@
 # 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**I'm Thalles Galvão, Front-End Developer. Currently working at 2b Digital by TOTVS Ibirapuera**.
+**I'm Thalles Galvão, Front-End Developer. Currently working at Clicksign**.
 
 Front-end developer with multiple skills. I have experience in the development of digital products and also in copywriting due to my academic background. Professional growth is a priority for me, so I dedicate myself to new courses, guaranteeing certifications and future accomplishments.
 
@@ -24,24 +24,33 @@ Front-end developer with multiple skills. I have experience in the development o
 ### 🔧 Tools & Technologies: 
 
 #### 👨‍💻 Experient
-![HTML](https://img.shields.io/badge/Html-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/Css-000?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+![React](https://img.shields.io/badge/React-61DAFB?logoColor=000&style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?logoColor=fff&style=for-the-badge&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logoColor=fff&style=for-the-badge&logo=vuedotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logoColor=fff&style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logoColor=000&style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logoColor=fff&style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logoColor=fff&style=for-the-badge&logo=css3)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logoColor=fff&style=for-the-badge&logo=sass)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logoColor=fff&style=for-the-badge&logo=tailwindcss)
+![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7093?logoColor=fff&style=for-the-badge&logo=styled-components)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logoColor=fff&style=for-the-badge&logo=figma)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-3a0029?logoColor=fff&style=for-the-badge&logo=adobexd)
 
 #### 🚴 Improving
-![ReactJs](https://img.shields.io/badge/ReactJs-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next-dot-js)
-![Vue](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue-dot-js)
+
+![Jest](https://img.shields.io/badge/Jest-C21325?logoColor=ffffff&style=for-the-badge&logo=jest)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?logoColor=ffffff&style=for-the-badge&logo=testing-library)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logoColor=ffffff&style=for-the-badge&logo=nuxtdotjs)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logoColor=ffffff&style=for-the-badge&logo=vite)
+
 
 #### 🚀 Next Steps
-![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
-![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=jest)
-![React Native](https://img.shields.io/badge/ReactNative-000?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node-dot-js)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logoColor=ffffff&style=for-the-badge&logo=cypress)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logoColor=ffffff&style=for-the-badge&logo=redux)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logoColor=ffffff&style=for-the-badge&logo=svelte)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logoColor=ffffff&style=for-the-badge&logo=docker)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logoColor=ffffff&style=for-the-badge&logo=nodedotjs)
 
 ### 😊 Soft Skills:
 ![Communication](https://img.shields.io/badge/%F0%9F%92%AC%20Communication-000?style=for-the-badge)
