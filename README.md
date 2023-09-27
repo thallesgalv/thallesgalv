@@ -10,8 +10,8 @@ Sou um desenvolvedor front-end web especializado em construir produtos digitais 
 
 Tenho experiência em desenvolver features e realizar manutenções em plataformas online e e-commerces de grande porte. Meu foco está em criar experiências digitais, com ênfase em produtos web performáticos, desenvolvidos a partir de uma stack moderna.
 
-![Typescript Badge](https://img.shields.io/badge/Typescript-000?style=flat-square&labelColor=000&logo=typescript&logoColor=white)
-![Next.js Badge](https://img.shields.io/badge/Next.js-000?style=flat-square&labelColor=000&logo=nextdotjs&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-000?style=flat-square&labelColor=000&logo=react&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-000?style=flat-square&labelColor=000&logo=astro&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&labelColor=000&logo=tailwindcss&logoColor=white)
+[![Typescript Badge](https://img.shields.io/badge/Typescript-000?style=flat-square&labelColor=000&logo=typescript&logoColor=white)](#)
+[![Next.js Badge](https://img.shields.io/badge/Next.js-000?style=flat-square&labelColor=000&logo=nextdotjs&logoColor=white)](#)
+[![React.js](https://img.shields.io/badge/React.js-000?style=flat-square&labelColor=000&logo=react&logoColor=white)](#)
+[![Astro](https://img.shields.io/badge/Astro-000?style=flat-square&labelColor=000&logo=astro&logoColor=white)](#)
+[![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&labelColor=000&logo=tailwindcss&logoColor=white)](#)
